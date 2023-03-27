@@ -10,4 +10,10 @@
 - :computer: I'm a front-end/back-end engineer in Japan.
 - :notebook_with_decorative_cover: I output technology on [my personal blog](https://explore-zine.com/).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingk-18&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingk-18&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingk-18&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ingk-18&theme=github&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingk-18&theme=github)
